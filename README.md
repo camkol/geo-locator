@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-This was a class project to learn about useEffect.
+This was a class project to learn about custom hooks.
 
 ### Continued development
 
